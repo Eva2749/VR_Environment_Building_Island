@@ -8,12 +8,12 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Sand
-  m_Shader: {fileID: -6465566751694194690, guid: 083d37bf70610e043a0935fbe736a55f, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 2823e4bb9512d4a36a5f9b46b57a6494, type: 3}
   m_ShaderKeywords: _PARALLAXMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 200
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlbedoTexture2:
-        m_Texture: {fileID: 2800000, guid: a6cefebb9ff4d462f8e0730d79df4d7b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0549108bc07924dbe98b0c1a0bda8f4f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlbedoTexture3:
@@ -107,7 +107,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Metallic: 0.154
+    - _Metallic: 0.239
     - _OcclusionStrength: 1
     - _Parallax: 0.008
     - _QueueOffset: 0
@@ -120,6 +120,14 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_4bec6a2603424411911c060269396451: {r: 1, g: 1, b: 1, a: 0}
+    - Color_bdb1206a73514578aa94f9f7e7c80e12: {r: 1, g: 1, b: 1, a: 0}
+    - Color_d9d70bd1829c41a1b6f729d94bd5e3f7: {r: 1, g: 1, b: 1, a: 0}
+    - Color_f93842cb5c9245e3b95e807458cde82f: {r: 1, g: 1, b: 1, a: 0}
+    - Vector4_0df7c4cf1ccb438387f0fb9f69d4e490: {r: 12, g: 12, b: 0, a: 0}
+    - Vector4_26a0e00da68f447199d61abf5f4c67aa: {r: 12, g: 10, b: 0, a: 0}
+    - Vector4_a00af4f118174c068c01e99d8903be8c: {r: 1, g: 1, b: 0, a: 0}
+    - Vector4_dc2421bd20324b53b74dca436da14cce: {r: 1, g: 1, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
